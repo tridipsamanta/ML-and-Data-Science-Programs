@@ -54,6 +54,9 @@ mnist/
 The MNIST files must be in the **same folder** as the Python script.
 
 ---
+## 🖊️ Live Digit Recognition Demo
+
+![Live Digit Recognition](images/live_digit_recognition.png)
 
 ## 📦 Requirements
 
