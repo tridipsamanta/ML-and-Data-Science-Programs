@@ -45,7 +45,6 @@ On every execution:
 - Average Exam Score  
 - Correlation (Study Hours vs Exam Score)
 
-These metrics help understand how study time relates to exam performance.
 
 ---
 
