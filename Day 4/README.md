@@ -1,7 +1,7 @@
 # 📊 Data Science Day 4 – Automated Analysis with Python
 
 This project is part of my **daily data science practice series**.  
-On **Day 4**, I focused on generating data, analyzing it using **pandas**, and visualizing summary statistics with **matplotlib**, all while supporting **GitHub automation**.
+On **Day 4**, I focused on generating data, analyzing it using **pandas**, and visualizing summary statistics with **matplotlib**, all while supporting **GitHub automation**...
 
 ---
 
