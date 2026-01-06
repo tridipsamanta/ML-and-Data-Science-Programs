@@ -49,16 +49,6 @@ These metrics help understand how study time relates to exam performance.
 
 ---
 
-## 🤖 GitHub Automation Friendly
-
-This project is designed for **automated daily commits**:
-
-- Every run generates a **new file**
-- Ensures GitHub Actions always has changes to commit
-- Perfect for consistency streaks 🔥
-
----
-
 ## ▶️ How to Run
 
 ```bash
