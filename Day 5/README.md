@@ -14,9 +14,9 @@ It uses **OpenCV** for video capture and **MediaPipe Hands** for accurate hand l
 - ✅ Works smoothly on **macOS**
 - ✅ Clean exit using `ESC` key
 
----
+--
 
-## 🛠️ Technologies Used
+#### 🛠️ Technologies Used
 
 - **Python 3.10**
 - **OpenCV (cv2)**
