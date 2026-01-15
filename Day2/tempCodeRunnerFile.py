@@ -1,1 +1,0 @@
-Ani ekjon onek bhalo moner manush. Ani khub sincere ebong hardworking. Ani jar kajer moddhe dedication clear vabe dekha jay. Ani always positive ebong helpful. Ani sobai ke happy rakhar chesta koree
